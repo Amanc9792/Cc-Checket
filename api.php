@@ -21,7 +21,8 @@ function multiexplode($seperator, $string)
 }
 
 $skArray = array(
-    1 => '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',
+    1 => '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
+',
 );
 
 if (isset($skArray)) {
@@ -31,7 +32,8 @@ if (isset($skArray)) {
 }
 
 $pkArray = array(
-    1 => 'pk_live_51Nya9QLMcVDx8sEB0p0DhoRGRCNvkP1Zqq6eXYNtnl01cPrpdUdE723urPrmz8yN4djASQaTxfZX3w8UEFpsaI8500D8NpR1eZ',
+    1 => 'pk_live_51MDzlUD5lvmz5rXiwOR5gIDO9rZYJNlJ40mA6YUJ65eE0kJg32hN6VNyrrfwZDBGKtDu9nVRe1abNhzH0cpbspw200OJlC1DJS
+',
 );
 
 if (isset($pkArray)) {
